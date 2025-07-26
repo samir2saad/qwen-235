@@ -3,7 +3,7 @@
 ## Basic Setup
 
 ```bash
-export OPENROUTER_API_KEY="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"
+export OPENROUTER_API_KEY="api-key"
 ```
 
 ## 1. Basic Customer Greeting (Arabic)
