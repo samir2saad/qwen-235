@@ -1,0 +1,267 @@
+Category: Men
+Item: DisdashaS
+Wash & Iron: 0.650KD
+Iron Only: 0.450KD
+Item: DisdashaW
+Wash & Iron: 0.850KD
+Iron Only: 0.500KD
+Item: Shmagh
+Wash & Iron: 0.450KD
+Iron Only: 0.350KD
+Item: Ghotra
+Wash & Iron: 0.450KD
+Iron Only: 0.350KD
+Item: VestUnderwear
+Wash & Iron: 0.350KD
+Iron Only: 0.250KD
+Item: UnderwearLong
+Wash & Iron: 0.350KD
+Iron Only: 0.250KD
+Item: Taghiya
+Wash & Iron: 0.150KD
+Iron Only: 0.100KD
+Item: Bisht
+Wash & Iron: 4.000KD
+Iron Only: 2.000KD
+Item: FurFarwa
+Wash & Iron: 5.000KD
+Iron Only: 2.000KD
+Item: WAZAR
+Wash & Iron: 0.500KD
+Iron Only: 0.350KD
+-----
+Category: Women
+Item: WomanBlouse
+Wash & Iron: 1.100KD
+Iron Only: 0.600KD
+Item: Dress
+Wash & Iron: 1.500KD
+Iron Only: 1.000KD
+Item: Dress
+Wash & Iron: 2.500KD
+Iron Only: 1.000KD
+Item: Dress
+Wash & Iron: 4.000KD
+Iron Only: 3.000KD
+Item: Dress
+Wash & Iron: 6.000KD
+Iron Only: 4.000KD
+Item: Abaya
+Wash & Iron: 1.250KD
+Iron Only: 0.700KD
+Item: Abaya
+Wash & Iron: 1.750KD
+Iron Only: 0.750KD
+Item: ScarfHijab
+Wash & Iron: 0.500KD
+Iron Only: 0.400KD
+Item: VeilNiqab
+Wash & Iron: 0.250KD
+Iron Only: 0.200KD
+Item: WomenScarfShawl
+Wash & Iron: 1.250KD
+Iron Only: 0.750KD
+Item: JumpsuitWomen
+Wash & Iron: 2.000KD
+Iron Only: 1.000KD
+Item: Womensleepshirt
+Wash & Iron: 0.750KD
+Iron Only: 0.500KD
+Item: Overcoat
+Wash & Iron: 3.000KD
+Iron Only: 1.500KD
+Item: Overcoat
+Wash & Iron: 4.000KD
+Iron Only: 2.000KD
+Item: Pajama
+Wash & Iron: 1.000KD
+Iron Only: 0.600KD
+Item: PrayerDress
+Wash & Iron: 1.000KD
+Iron Only: 0.600KD
+Item: Saree
+Wash & Iron: 2.500KD
+Iron Only: 1.500KD
+-----
+Category: Children
+Item: kidsTrouser
+Wash & Iron: 0.400KD
+Iron Only: 0.300KD
+Item: KidsT-shirt
+Wash & Iron: 0.400KD
+Iron Only: 0.300KD
+Item: kidsshirt
+Wash & Iron: 0.400KD
+Iron Only: 0.300KD
+Item: BabyDress
+Wash & Iron: 1.000KD
+Iron Only: 0.750KD
+Item: ChildluxuriousDress
+Wash & Iron: 5.000KD
+Iron Only: 2.500KD
+Item: Infantwear
+Wash & Iron: 0.400KD
+Iron Only: 0.300KD
+Item: SchoolDress
+Wash & Iron: 0.750KD
+Iron Only: 0.500KD
+Item: JacketKids
+Wash & Iron: 1.000KD
+Iron Only: 0.750KD
+Item: Schoolbag
+Wash & Iron: unknown
+Iron Only: unknown
+Item: KidsToys
+Wash & Iron: unknown
+Iron Only: unknown
+Item: Babystroller
+Wash & Iron: unknown
+Iron Only: unknown
+-----
+Category: Upper
+Item: TShirt
+Wash & Iron: 0.500KD
+Iron Only: 0.350KD
+Item: Shirt
+Wash & Iron: 0.500KD
+Iron Only: 0.350KD
+Item: Pullover
+Wash & Iron: 1.250KD
+Iron Only: 0.750KD
+Item: sportjacket
+Wash & Iron: 1.250KD
+Iron Only: 0.750KD
+Item: Blouse
+Wash & Iron: 0.750KD
+Iron Only: 0.500KD
+Item: Jacket
+Wash & Iron: 2.000KD
+Iron Only: 1.250KD
+Item: Jacket
+Wash & Iron: 3.000KD
+Iron Only: 1.250KD
+Item: Vest
+Wash & Iron: 1.500KD
+Iron Only: 0.750KD
+Item: vestsuit
+Wash & Iron: 0.500KD
+Iron Only: 0.350KD
+Item: Robe
+Wash & Iron: 1.250KD
+Iron Only: 0.700KD
+-----
+Category: Lower
+Item: Trouser
+Wash & Iron: 0.500KD
+Iron Only: 0.350KD
+Item: SportPant
+Wash & Iron: 0.500KD
+Iron Only: 0.350KD
+Item: ShortTrouser
+Wash & Iron: 0.500KD
+Iron Only: 0.350KD
+Item: Skirt
+Wash & Iron: 1.000KD
+Iron Only: 0.600KD
+Item: PleatedSkirtkasrat
+Wash & Iron: 2.500KD
+Iron Only: 1.500KD
+-----
+Category: Practical
+Item: ArmySuitPieces
+Wash & Iron: 1.100KD
+Iron Only: 0.700KD
+Item: PoliceSuitPieces
+Wash & Iron: 1.100KD
+Iron Only: 0.700KD
+Item: Cappolice
+Wash & Iron: 0.500KD
+Iron Only: 0.300KD
+Item: Balasot
+Wash & Iron: 1.250KD
+Iron Only: 0.750KD
+Item: LabCoat
+Wash & Iron: 0.750KD
+Iron Only: 0.500KD
+Item: MedicalUniformPieces
+Wash & Iron: 1.000KD
+Iron Only: 0.700KD
+Item: SuitPieces
+Wash & Iron: 2.000KD
+Iron Only: 1.000KD
+Item: FullSuitPieces
+Wash & Iron: 2.500KD
+Iron Only: 1.500KD
+Item: Firefightersafetysuit
+Wash & Iron: unknown
+Iron Only: unknown
+-----
+Category: Furniture
+Item: DibajSingle
+Wash & Iron: 2.000KD
+Iron Only: unknown
+Item: DibajDouble
+Wash & Iron: 2.500KD
+Iron Only: unknown
+Item: BedsheetSingle
+Wash & Iron: 0.750KD
+Iron Only: 0.500KD
+Item: BedsheetDouble
+Wash & Iron: 1.250KD
+Iron Only: 0.750KD
+Item: PillowCaseNAT
+Wash & Iron: 0.300KD
+Iron Only: 0.150KD
+Item: Pillow
+Wash & Iron: 1.000KD
+Iron Only: unknown
+Item: Towel
+Wash & Iron: 0.600KD
+Iron Only: unknown
+Item: Handtowel
+Wash & Iron: 0.300KD
+Iron Only: unknown
+Item: Prayerrug
+Wash & Iron: 1.000KD
+Iron Only: unknown
+Item: TableSheet
+Wash & Iron: 0.750KD
+Iron Only: 0.500KD
+Item: SleepBag
+Wash & Iron: unknown
+Iron Only: unknown
+Item: MeterCurtain
+Wash & Iron: unknown
+Iron Only: unknown
+-----
+Category: Accessories
+Item: Capnormal
+Wash & Iron: unknown
+Iron Only: unknown
+Item: CapLuxurious
+Wash & Iron: unknown
+Iron Only: unknown
+Item: Tie
+Wash & Iron: 0.500KD
+Iron Only: 0.250KD
+Item: Shoes
+Wash & Iron: unknown
+Iron Only: unknown
+Item: BOOTS
+Wash & Iron: unknown
+Iron Only: unknown
+Item: SmallHandBag
+Wash & Iron: unknown
+Iron Only: unknown
+Item: Mediumhandbag
+Wash & Iron: unknown
+Iron Only: unknown
+Item: LargeHandBag
+Wash & Iron: unknown
+Iron Only: unknown
+Item: Belt
+Wash & Iron: 0.250KD
+Iron Only: 0.000KD
+Item: Gloves
+Wash & Iron: unknown
+Iron Only: unknown
